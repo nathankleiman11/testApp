@@ -2,4 +2,4 @@ boto3==1.9.127
 aidoc-serverless-base==0.2.0-nos3
 sqlalchemy==1.3.10
 attrs==19.3.0
-requests==1.0.0
+requests==2.1
